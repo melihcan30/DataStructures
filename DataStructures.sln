@@ -1,37 +1,39 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1231
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{29C4658F-A549-4B28-B123-62BC3C5A7833}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures", "DataStructures\DataStructures.csproj", "{29C4658F-A549-4B28-B123-62BC3C5A7833}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeİnsert", "BinaryTreeİnsert\BinaryTreeİnsert.csproj", "{1D233D44-B3C5-4439-A31A-A46CED8A0A4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeİnsert", "BinaryTreeİnsert\BinaryTreeİnsert.csproj", "{1D233D44-B3C5-4439-A31A-A46CED8A0A4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelOrderO(n)Time", "LevelOrderO(n)Time\LevelOrderO(n)Time.csproj", "{042465E7-7FD6-4AEA-B296-ACD0558A55F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevelOrderO(n)Time", "LevelOrderO(n)Time\LevelOrderO(n)Time.csproj", "{042465E7-7FD6-4AEA-B296-ACD0558A55F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelOrderLongTime", "LevelOrderLongTime\LevelOrderLongTime.csproj", "{49B07587-788B-41E3-81B9-B88FF39BD276}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevelOrderLongTime", "LevelOrderLongTime\LevelOrderLongTime.csproj", "{49B07587-788B-41E3-81B9-B88FF39BD276}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostorderPreorderInorder", "PostorderPreorderInorder\PostorderPreorderInorder.csproj", "{BCBDCF56-F48D-4BC0-9E37-9F093F83EE7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostorderPreorderInorder", "PostorderPreorderInorder\PostorderPreorderInorder.csproj", "{BCBDCF56-F48D-4BC0-9E37-9F093F83EE7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeDeletion", "BinaryTreeDeletion\BinaryTreeDeletion.csproj", "{302163E3-7BC6-4623-ABFC-C477833C3B68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeDeletion", "BinaryTreeDeletion\BinaryTreeDeletion.csproj", "{302163E3-7BC6-4623-ABFC-C477833C3B68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapExample", "ConnectN-RopesWithMinimumCost\HeapExample.csproj", "{36F7043C-90C1-402A-93E3-AD0288C62278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeapExample", "ConnectN-RopesWithMinimumCost\HeapExample.csproj", "{36F7043C-90C1-402A-93E3-AD0288C62278}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapExample2", "HeapExample2\HeapExample2.csproj", "{A2F43430-5EC5-4351-990C-23342BF3AD66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeapExample2", "HeapExample2\HeapExample2.csproj", "{A2F43430-5EC5-4351-990C-23342BF3AD66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{CB2009AB-894B-4848-B070-66B5499EDF82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeapSort", "HeapSort\HeapSort.csproj", "{CB2009AB-894B-4848-B070-66B5499EDF82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueReversing", "QueueReversing\QueueReversing.csproj", "{7B046FC2-AA71-4C89-94D9-EF23918FA8A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueReversing", "QueueReversing\QueueReversing.csproj", "{7B046FC2-AA71-4C89-94D9-EF23918FA8A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastInFirstOut", "LastInFirstOut\LastInFirstOut.csproj", "{4A506322-7105-477B-AA36-9D8E019F4015}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LastInFirstOut", "LastInFirstOut\LastInFirstOut.csproj", "{4A506322-7105-477B-AA36-9D8E019F4015}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstInFirsOut", "FirstInFirsOut\FirstInFirsOut.csproj", "{A392CEA1-1FBB-4B53-A5C2-DC39C7196EFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstInFirsOut", "FirstInFirsOut\FirstInFirsOut.csproj", "{A392CEA1-1FBB-4B53-A5C2-DC39C7196EFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashingExamples", "HashingExamples\HashingExamples.csproj", "{1A9DA7B5-C4D5-4EFD-800F-2E584ADBC428}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashingExamples", "HashingExamples\HashingExamples.csproj", "{1A9DA7B5-C4D5-4EFD-800F-2E584ADBC428}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashingExamples2", "HashingExamples2\HashingExamples2.csproj", "{BD796D9E-5C6C-46A2-839E-EB2B4F127999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashingExamples2", "HashingExamples2\HashingExamples2.csproj", "{BD796D9E-5C6C-46A2-839E-EB2B4F127999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashingExamples3", "HashingExamples3\HashingExamples3.csproj", "{6DEFA93D-91B4-4D52-B57D-E04AC0EA1134}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashingExamples3", "HashingExamples3\HashingExamples3.csproj", "{6DEFA93D-91B4-4D52-B57D-E04AC0EA1134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDups", "RemoveDups\RemoveDups.csproj", "{C16A523A-4707-4FDA-ADE5-083D19090ECF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{6DEFA93D-91B4-4D52-B57D-E04AC0EA1134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DEFA93D-91B4-4D52-B57D-E04AC0EA1134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DEFA93D-91B4-4D52-B57D-E04AC0EA1134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16A523A-4707-4FDA-ADE5-083D19090ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16A523A-4707-4FDA-ADE5-083D19090ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16A523A-4707-4FDA-ADE5-083D19090ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16A523A-4707-4FDA-ADE5-083D19090ECF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
